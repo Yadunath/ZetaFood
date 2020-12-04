@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZetaFood</string>
+    <string name="empty_cart">There is no items in cart... Swipe right in food list to add.</string>
+</resources>
