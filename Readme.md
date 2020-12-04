@@ -1,5 +1,9 @@
 This is a sample project using Retrofit library and RxJava library 
+
+
 Libraries used:
+
+
 com.squareup.retrofit2:retrofit:2.9.0
 
 
